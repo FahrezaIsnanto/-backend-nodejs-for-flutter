@@ -21,3 +21,6 @@ import sql users.sql didalam database flutter_user
 ```
 node server.js
 ```
+
+### Author
+Fahreza Isnanto
